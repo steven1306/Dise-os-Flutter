@@ -7,7 +7,7 @@ class BasicDesignScreen extends StatelessWidget {
         body: Column(
       children: [
         // Imagen
-        Image(image: AssetImage('assets/landscape.jpg')),
+        Image(image: AssetImage('assets/forest-landscape.jpg')),
 
         // Title
         Title(),
